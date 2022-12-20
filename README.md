@@ -1,2 +1,4 @@
-# GerenciadorDeEstoque
- Um gerenciador de estoque de itens bem simples e com uma UI em Python :p
+# Gerenciador De Estoque 📚
+ Um gerenciador de estoque, com UI e em python :p
+ 
+ **feita exclusivamente para estudo
